@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "URJC-CTF-Challenges/URJC-CTF+++FlagGPT.md",
+                "file": "URJC-CTF-Challenges/URJC-CTF+++Eres poeta?.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "^",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "URJC-CTF-Challenges/URJC-CTF+++FlagGPT.md",
+                "file": "URJC-CTF-Challenges/URJC-CTF+++Eres poeta?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "URJC-CTF-Challenges/URJC-CTF+++FlagGPT.md",
+                "file": "URJC-CTF-Challenges/URJC-CTF+++Eres poeta?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "URJC-CTF-Challenges/URJC-CTF+++FlagGPT.md"
+                "file": "URJC-CTF-Challenges/URJC-CTF+++Eres poeta?.md"
               }
             }
           }
@@ -146,11 +147,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a68ee6943b248bb",
+  "active": "bc688cd3d7188851",
   "lastOpenFiles": [
-    "URJC-CTF-Challenges/URJC-CTF+++Allispree.md",
-    "URJC-CTF-Challenges/URJC-CTF+++PwnThemAll 1.md",
     "URJC-CTF-Challenges/URJC-CTF+++Eres poeta?.md",
+    "URJC-CTF-Challenges/URJC-CTF+++Eres poeta?.md",
+    "URJC-CTF-Challenges/URJC-CTF+++PwnThemAll 1.md",
+    "Attachments/Pasted image 20240108204941.png",
+    "Pasted image 20240108204941.png",
+    "URJC-CTF-Challenges/URJC-CTF+++FlagGPT.md",
+    "URJC-CTF-Challenges/URJC-CTF+++Allispree.md",
     "Untitled.canvas",
     "Welcome.md",
     "URJC-CTF-Challenges/URJC-CTF+++Eres poeta?.pdf",
@@ -162,7 +167,6 @@
     "Attachments/Pasted image 20240104174415.png",
     "URJC-CTF+++Porfaplis.md",
     "URJC-CTF-Challenges/URJC-CTF+++Secret Meeting.md",
-    "URJC-CTF-Challenges/URJC-CTF+++FlagGPT.md",
     "Code/pwningthemall2.py",
     "Code/attack_payload",
     "Code/exploit.py",
