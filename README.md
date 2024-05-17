@@ -1,5 +1,4 @@
 # Collection of CTF Write-Ups 
-![](Attachments/image.jpeg)
 
 This repository is a collection of CTF Write-Ups, used for own documention purposes. It may serve as a helpful guide regarding some similar CTF challenges.
 I do all my documentation in obsidian(https://obsidian.md/). For the easiest reading experience, just open the github repo in your obsidian vault. 
